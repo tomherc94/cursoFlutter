@@ -1,0 +1,4 @@
+#Tue Jul 06 16:12:51 BRT 2021
+base.0=/home/tomas/AndroidStudioProjects/contador_pessoas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
